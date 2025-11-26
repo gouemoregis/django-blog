@@ -28,7 +28,7 @@ MANIFEST
 # Django stuff:
 *.log
 local_settings.py
-db.sqlite3
+# db.sqlite3
 db.sqlite3-journal
 
 # Flask stuff:
@@ -101,7 +101,7 @@ ehthumbs.db
 Thumbs.db
 
 # Media files (optional)
-media/
+# media/
 
 # Static files (optional - uncomment if needed)
 # static/
